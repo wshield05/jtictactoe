@@ -12,6 +12,7 @@ public class Player {
     
     /*structure of the array
     
+        -------------
         | 6 | 7 | 8 |
         -------------
         | 3 | 4 | 5 |
