@@ -1,5 +1,6 @@
 public class Playfield {
 
-	private boolean[] playfield = {false, false, false, false, false, false, false, false, false};
+	private boolean[] playfield = {null, null, null, null, null, null, null, null, null};
+        //was it REALLY necessary to define ANOTHER class? whatever.
 }
 
