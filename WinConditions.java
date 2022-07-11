@@ -1,6 +1,6 @@
 public class WinConditions {
 	
-    public boolean hasWon(Player p2){
+    public boolean hasWon(){
         
         if (this.playfield[7] && this.playfield[4] && this.playfield[1])
             return true;
