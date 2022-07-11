@@ -6,14 +6,14 @@ public class Player {
     private char symbol;
     /*in the playfield, each player's move is represented 
     either by a false or a true in the array.
-    a blank space is a 'null'.*/
+    */
 
     public Player(String name) {
         this.name = name;
     }
 	
     //public void startTurn ()
-            //the player chooses which symbol to use; true uses X, false uses O, null uses ' ' (blank space)
+            //the player chooses which symbol to use; true uses X, false uses O.
 }
 
 
