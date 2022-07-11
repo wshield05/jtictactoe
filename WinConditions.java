@@ -16,6 +16,8 @@ public class WinConditions {
             return true;
         else if (this.playfield[8] && this.playfield[5] && this.playfield[2])
             return true;
+        else
+            return false;
     }
     
     //refer to the scheme in Player.java to understand.
