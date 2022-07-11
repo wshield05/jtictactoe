@@ -6,7 +6,6 @@ public class Player {
     /*in the playfield, each player's move is represented 
     either by a false or a true in the array.
     if a player occupies a spot, the position in the array will be true.
-    symbol is O -> 
     */
     private boolean[] playfield = {false, false, false, false, false, false, false, false, false};
     //if the player hasn't occupied that space, it's false, else it's true.
